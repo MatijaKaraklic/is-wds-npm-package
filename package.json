@@ -1,0 +1,22 @@
+{
+  "name": "@matijakaraklic/is-wds",
+  "version": "1.0.0",
+  "description": "Is the string WDS?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatijaKaraklic/is-wds-npm-package.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Matija Karaklic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatijaKaraklic/is-wds-npm-package/issues"
+  },
+  "homepage": "https://github.com/MatijaKaraklic/is-wds-npm-package#readme"
+}
